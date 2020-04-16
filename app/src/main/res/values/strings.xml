@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DVDLogo</string>
+
+    <!-- Preference Titles -->
+    <string name="wallpaper_header">Wallpaper</string>
+    <string name="about_header">About</string>
+
+    <!-- Wallpaper Preferences -->
+    <string name="speed_title">Speed</string>
+
+    <!-- About Preferences -->
+    <string name="source_title">Source code</string>
+    <string name="source_url">https://github.com/cgrs/dvdlogo</string>
+    <string name="source_summary">Go to project repository website</string>
+</resources>
